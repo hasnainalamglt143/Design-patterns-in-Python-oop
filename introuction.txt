@@ -1,0 +1,8 @@
+There are usuaally 3 design patterns applied :
+1-Creational
+    sigelton
+    Factory
+
+2- Structural
+   
+3- Behavioral 
